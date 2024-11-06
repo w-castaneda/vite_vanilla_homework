@@ -1,2 +1,2 @@
 # vite_vanilla_homework
-Project Using Vite and Vanilla-ts 
+To do List Using Vite and Vanilla-ts 
